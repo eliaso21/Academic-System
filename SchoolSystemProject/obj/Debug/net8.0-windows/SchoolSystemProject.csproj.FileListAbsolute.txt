@@ -150,3 +150,5 @@ C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\ne
 C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Courses.GetCourseform.resources
 C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Courses.AddCourseForm.resources
 C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Courses.DeleteCourseForm.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.sourcelink.json
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Courses.UpdateCourse.resources

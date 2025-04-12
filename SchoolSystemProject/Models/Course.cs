@@ -18,12 +18,10 @@ namespace SchoolSystemProject.Models
         [ForeignKey("Department")]
         public int DeptID { get; set; }
 
-        //[NotMapped]
         public virtual Department Department { get; set; } = null!;
         [ForeignKey("Instructor")]
         public int InsID { get; set; }
 
-        //[NotMapped]
         public virtual Instructor Instructor { get; set; } = null!;
         public virtual ICollection<StdCrs> Std_Courses { get; set; } = new HashSet<StdCrs>();
         public virtual ICollection<CourseSession> CourseSessions { get; set; } = new HashSet<CourseSession>();

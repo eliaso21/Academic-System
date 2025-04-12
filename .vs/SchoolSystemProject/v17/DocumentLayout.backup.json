@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|c:\\users\\robin\\source\\repos\\schoolsystemproject\\schoolsystemproject\\forms\\courses\\updatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|solutionrelative:schoolsystemproject\\forms\\courses\\updatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\schoolsystemproject\\forms\\courses\\updatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|solutionrelative:schoolsystemproject\\forms\\courses\\updatecourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|c:\\users\\robin\\source\\repos\\schoolsystemproject\\schoolsystemproject\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|solutionrelative:schoolsystemproject\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\schoolsystemproject\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|solutionrelative:schoolsystemproject\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "SchoolSystemProject\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "SchoolSystemProject\\Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:15:49.18Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "SchoolSystemProject\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\Form1.cs",
+              "RelativeToolTip": "SchoolSystemProject\\Forms\\Form1.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAIAwwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:16:02.59Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateCourse.cs",
+              "DocumentMoniker": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\Courses\\UpdateCourse.cs",
+              "RelativeDocumentMoniker": "SchoolSystemProject\\Forms\\Courses\\UpdateCourse.cs",
+              "ToolTip": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\Courses\\UpdateCourse.cs",
+              "RelativeToolTip": "SchoolSystemProject\\Forms\\Courses\\UpdateCourse.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAuwIMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:16:48.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateCourse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\Courses\\UpdateCourse.cs",
+              "RelativeDocumentMoniker": "SchoolSystemProject\\Forms\\Courses\\UpdateCourse.cs",
+              "ToolTip": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\Courses\\UpdateCourse.cs [Design]",
+              "RelativeToolTip": "SchoolSystemProject\\Forms\\Courses\\UpdateCourse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T19:16:38.119Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -16,6 +16,9 @@
     <Compile Update="Forms\Courses\GetCoursesForm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\Courses\UpdateCourse.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\DeleteStudent.cs">
       <SubType>Form</SubType>
     </Compile>

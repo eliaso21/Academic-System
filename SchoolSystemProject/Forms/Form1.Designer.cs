@@ -194,6 +194,7 @@
             updateCourseToolStripMenuItem.Name = "updateCourseToolStripMenuItem";
             updateCourseToolStripMenuItem.Size = new Size(224, 26);
             updateCourseToolStripMenuItem.Text = "Update Course";
+            updateCourseToolStripMenuItem.Click += updateCourseToolStripMenuItem_Click;
             // 
             // departmentToolStripMenuItem
             // 

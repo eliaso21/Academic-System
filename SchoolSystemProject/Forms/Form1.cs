@@ -79,5 +79,11 @@ namespace SchoolSystemProject
             DeleteCourseForm deleteCourseForm = new DeleteCourseForm();
             deleteCourseForm.ShowDialog();
         }
+
+        private void updateCourseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            UpdateCourse updateCourse = new UpdateCourse();
+            updateCourse.ShowDialog();
+        }
     }
 }

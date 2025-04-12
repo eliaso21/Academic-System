@@ -1,4 +1,5 @@
-﻿using SchoolSystemProject.Context;
+﻿using Microsoft.EntityFrameworkCore;
+using SchoolSystemProject.Context;
 using SchoolSystemProject.Models;
 using System;
 using System.Collections.Generic;
@@ -21,12 +22,14 @@ namespace SchoolSystemProject.Forms.Courses
             InitializeComponent();
         }
 
-        private void addBtn_Click(object sender, EventArgs e)
+        private async void addBtn_Click(object sender, EventArgs e)
         {
             int crsId;
             int deptId;
             int insId;
             int duration;
+
+            
 
             if (!int.TryParse(idtext.Text, out crsId))
             {
@@ -45,24 +48,36 @@ namespace SchoolSystemProject.Forms.Courses
                 MessageBox.Show("Invalid Department ID.");
                 return;
             }
+            var department = await db.Departments
+                                   .FirstOrDefaultAsync(d => d.Dept_ID == deptId);
 
-            if (!db.Departments.Any(d=>d.Dept_ID != deptId))
+            if (department == null)
             {
-                MessageBox.Show("A Department with this ID does not exist.");
-                return;
+                MessageBox.Show("The entered Department ID does not exist. Please enter a valid Department ID.",
+                                "Invalid Department",
+                                MessageBoxButtons.OK,
+                                MessageBoxIcon.Error);
+                return; 
             }
-
+          
             if (!int.TryParse(instext.Text, out insId))
             {
                 MessageBox.Show("Invalid Instructor ID.");
                 return;
             }
 
-            if (!db.Instructors.Any(i => i.InsID != insId))
+            var instructor = await db.Instructors
+                                   .FirstOrDefaultAsync(d => d.InsID == insId);
+
+            if (instructor == null)
             {
-                MessageBox.Show("An Instructor with this ID does not exist.");
-                return;
+                MessageBox.Show("The entered Instructor ID does not exist. Please enter a valid Instructor ID.",
+                                "Invalid Instructor",
+                                MessageBoxButtons.OK,
+                                MessageBoxIcon.Error);
+                return; 
             }
+
             if (!int.TryParse(durationtext.Text, out duration))
             {
                 MessageBox.Show("Invalid Duration Format, Only numbers allowed.");
