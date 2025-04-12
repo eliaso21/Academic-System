@@ -153,6 +153,8 @@ namespace SchoolSystemProject.Forms.Courses
             searchTxt.Visible = true;
         }
 
+
+
         
     }
 }

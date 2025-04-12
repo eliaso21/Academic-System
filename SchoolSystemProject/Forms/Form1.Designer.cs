@@ -164,35 +164,35 @@
             // getCoursesToolStripMenuItem
             // 
             getCoursesToolStripMenuItem.Name = "getCoursesToolStripMenuItem";
-            getCoursesToolStripMenuItem.Size = new Size(224, 26);
+            getCoursesToolStripMenuItem.Size = new Size(190, 26);
             getCoursesToolStripMenuItem.Text = "Get Courses";
             getCoursesToolStripMenuItem.Click += getCoursesToolStripMenuItem_Click;
             // 
             // getCourseToolStripMenuItem
             // 
             getCourseToolStripMenuItem.Name = "getCourseToolStripMenuItem";
-            getCourseToolStripMenuItem.Size = new Size(224, 26);
+            getCourseToolStripMenuItem.Size = new Size(190, 26);
             getCourseToolStripMenuItem.Text = "Get Course";
             getCourseToolStripMenuItem.Click += getCourseToolStripMenuItem_Click;
             // 
             // addCourseToolStripMenuItem
             // 
             addCourseToolStripMenuItem.Name = "addCourseToolStripMenuItem";
-            addCourseToolStripMenuItem.Size = new Size(224, 26);
+            addCourseToolStripMenuItem.Size = new Size(190, 26);
             addCourseToolStripMenuItem.Text = "Add Course";
             addCourseToolStripMenuItem.Click += addCourseToolStripMenuItem_Click;
             // 
             // deleteCourseToolStripMenuItem
             // 
             deleteCourseToolStripMenuItem.Name = "deleteCourseToolStripMenuItem";
-            deleteCourseToolStripMenuItem.Size = new Size(224, 26);
+            deleteCourseToolStripMenuItem.Size = new Size(190, 26);
             deleteCourseToolStripMenuItem.Text = "Delete Course";
             deleteCourseToolStripMenuItem.Click += deleteCourseToolStripMenuItem_Click;
             // 
             // updateCourseToolStripMenuItem
             // 
             updateCourseToolStripMenuItem.Name = "updateCourseToolStripMenuItem";
-            updateCourseToolStripMenuItem.Size = new Size(224, 26);
+            updateCourseToolStripMenuItem.Size = new Size(190, 26);
             updateCourseToolStripMenuItem.Text = "Update Course";
             updateCourseToolStripMenuItem.Click += updateCourseToolStripMenuItem_Click;
             // 
@@ -210,30 +210,35 @@
             getDepartmentToolStripMenuItem.Name = "getDepartmentToolStripMenuItem";
             getDepartmentToolStripMenuItem.Size = new Size(225, 26);
             getDepartmentToolStripMenuItem.Text = "Get Departments";
+            getDepartmentToolStripMenuItem.Click += getDepartmentToolStripMenuItem_Click;
             // 
             // getDToolStripMenuItem
             // 
             getDToolStripMenuItem.Name = "getDToolStripMenuItem";
             getDToolStripMenuItem.Size = new Size(225, 26);
             getDToolStripMenuItem.Text = "Get Department";
+            getDToolStripMenuItem.Click += getDToolStripMenuItem_Click;
             // 
             // addDepartmentToolStripMenuItem
             // 
             addDepartmentToolStripMenuItem.Name = "addDepartmentToolStripMenuItem";
             addDepartmentToolStripMenuItem.Size = new Size(225, 26);
             addDepartmentToolStripMenuItem.Text = "Add Department";
+            addDepartmentToolStripMenuItem.Click += addDepartmentToolStripMenuItem_Click;
             // 
             // updateDepartmentToolStripMenuItem
             // 
             updateDepartmentToolStripMenuItem.Name = "updateDepartmentToolStripMenuItem";
             updateDepartmentToolStripMenuItem.Size = new Size(225, 26);
             updateDepartmentToolStripMenuItem.Text = "Update Department";
+            updateDepartmentToolStripMenuItem.Click += updateDepartmentToolStripMenuItem_Click;
             // 
             // deleteDepartmentToolStripMenuItem
             // 
             deleteDepartmentToolStripMenuItem.Name = "deleteDepartmentToolStripMenuItem";
             deleteDepartmentToolStripMenuItem.Size = new Size(225, 26);
             deleteDepartmentToolStripMenuItem.Text = "Delete Department";
+            deleteDepartmentToolStripMenuItem.Click += deleteDepartmentToolStripMenuItem_Click;
             // 
             // instructorToolStripMenuItem
             // 

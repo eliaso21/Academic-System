@@ -22,6 +22,21 @@
     <Compile Update="Forms\DeleteStudent.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\Departments\AddDepartmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Departments\DeleteDepartmentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Departments\GetDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Departments\GetDepartmentsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Departments\UpdateDepartment.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\FirstPage.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -1,6 +1,7 @@
 using SchoolSystemProject.Context;
 using SchoolSystemProject.Forms;
 using SchoolSystemProject.Forms.Courses;
+using SchoolSystemProject.Forms.Departments;
 using SchoolSystemProject.Models;
 
 namespace SchoolSystemProject
@@ -84,6 +85,36 @@ namespace SchoolSystemProject
         {
             UpdateCourse updateCourse = new UpdateCourse();
             updateCourse.ShowDialog();
+        }
+
+        private void getDepartmentToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            GetDepartmentsForm getDepartmentsForm = new GetDepartmentsForm();
+            getDepartmentsForm.ShowDialog();
+        }
+
+        private void getDToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            GetDepartment getDepartment = new GetDepartment();
+            getDepartment.ShowDialog();
+        }
+
+        private void addDepartmentToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AddDepartmentForm addDepartmentForm = new AddDepartmentForm();
+            addDepartmentForm.ShowDialog();
+        }
+
+        private void updateDepartmentToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            UpdateDepartment updateDepartment = new UpdateDepartment();
+            updateDepartment.ShowDialog();
+        }
+
+        private void deleteDepartmentToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DeleteDepartmentForm deleteDepartmentForm = new DeleteDepartmentForm();
+            deleteDepartmentForm.ShowDialog();
         }
     }
 }

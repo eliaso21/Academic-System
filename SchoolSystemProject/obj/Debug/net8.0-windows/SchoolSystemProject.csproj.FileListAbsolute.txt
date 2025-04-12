@@ -152,3 +152,8 @@ C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\ne
 C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Courses.DeleteCourseForm.resources
 C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.sourcelink.json
 C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Courses.UpdateCourse.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Departments.GetDepartmentsForm.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Departments.GetDepartment.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Departments.AddDepartmentForm.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Departments.UpdateDepartment.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Departments.DeleteDepartmentForm.resources
