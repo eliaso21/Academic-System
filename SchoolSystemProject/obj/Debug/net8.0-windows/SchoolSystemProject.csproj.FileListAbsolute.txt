@@ -157,3 +157,14 @@ C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\ne
 C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Departments.AddDepartmentForm.resources
 C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Departments.UpdateDepartment.resources
 C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Departments.DeleteDepartmentForm.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Instructor.GetInstructorsForm.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Instructor.GetInstructorForm.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Instructor.AddInstructor.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Instructor.UpdateInstructor.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Instructor.DeleteInstructor.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.CourseSession.GetSessions.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.CourseSession.AddSession.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.CourseSession.DeleteSession.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.CourseSession.GetSession.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.CourseSession.UpdateSession.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.AboutForm.resources

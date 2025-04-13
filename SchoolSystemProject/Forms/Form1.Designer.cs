@@ -254,30 +254,35 @@
             getInstructorsToolStripMenuItem.Name = "getInstructorsToolStripMenuItem";
             getInstructorsToolStripMenuItem.Size = new Size(207, 26);
             getInstructorsToolStripMenuItem.Text = "Get Instructors";
+            getInstructorsToolStripMenuItem.Click += getInstructorsToolStripMenuItem_Click;
             // 
             // getInstructorToolStripMenuItem
             // 
             getInstructorToolStripMenuItem.Name = "getInstructorToolStripMenuItem";
             getInstructorToolStripMenuItem.Size = new Size(207, 26);
             getInstructorToolStripMenuItem.Text = "Get Instructor";
+            getInstructorToolStripMenuItem.Click += getInstructorToolStripMenuItem_Click;
             // 
             // addInstructorToolStripMenuItem
             // 
             addInstructorToolStripMenuItem.Name = "addInstructorToolStripMenuItem";
             addInstructorToolStripMenuItem.Size = new Size(207, 26);
             addInstructorToolStripMenuItem.Text = "Add Instructor";
+            addInstructorToolStripMenuItem.Click += addInstructorToolStripMenuItem_Click;
             // 
             // updateInstructorToolStripMenuItem
             // 
             updateInstructorToolStripMenuItem.Name = "updateInstructorToolStripMenuItem";
             updateInstructorToolStripMenuItem.Size = new Size(207, 26);
             updateInstructorToolStripMenuItem.Text = "Update Instructor";
+            updateInstructorToolStripMenuItem.Click += updateInstructorToolStripMenuItem_Click;
             // 
             // deleteInstructorToolStripMenuItem
             // 
             deleteInstructorToolStripMenuItem.Name = "deleteInstructorToolStripMenuItem";
             deleteInstructorToolStripMenuItem.Size = new Size(207, 26);
             deleteInstructorToolStripMenuItem.Text = "Delete Instructor";
+            deleteInstructorToolStripMenuItem.Click += deleteInstructorToolStripMenuItem_Click;
             // 
             // courseSessionToolStripMenuItem
             // 
@@ -291,32 +296,37 @@
             // getSessionsToolStripMenuItem
             // 
             getSessionsToolStripMenuItem.Name = "getSessionsToolStripMenuItem";
-            getSessionsToolStripMenuItem.Size = new Size(194, 26);
+            getSessionsToolStripMenuItem.Size = new Size(224, 26);
             getSessionsToolStripMenuItem.Text = "Get Sessions";
+            getSessionsToolStripMenuItem.Click += getSessionsToolStripMenuItem_Click;
             // 
             // getSessionToolStripMenuItem
             // 
             getSessionToolStripMenuItem.Name = "getSessionToolStripMenuItem";
-            getSessionToolStripMenuItem.Size = new Size(194, 26);
+            getSessionToolStripMenuItem.Size = new Size(224, 26);
             getSessionToolStripMenuItem.Text = "Get Session";
+            getSessionToolStripMenuItem.Click += getSessionToolStripMenuItem_Click;
             // 
             // addSessionToolStripMenuItem
             // 
             addSessionToolStripMenuItem.Name = "addSessionToolStripMenuItem";
-            addSessionToolStripMenuItem.Size = new Size(194, 26);
+            addSessionToolStripMenuItem.Size = new Size(224, 26);
             addSessionToolStripMenuItem.Text = "Add Session";
+            addSessionToolStripMenuItem.Click += addSessionToolStripMenuItem_Click;
             // 
             // updateSessionToolStripMenuItem
             // 
             updateSessionToolStripMenuItem.Name = "updateSessionToolStripMenuItem";
-            updateSessionToolStripMenuItem.Size = new Size(194, 26);
+            updateSessionToolStripMenuItem.Size = new Size(224, 26);
             updateSessionToolStripMenuItem.Text = "Update Session";
+            updateSessionToolStripMenuItem.Click += updateSessionToolStripMenuItem_Click;
             // 
             // deleteSessionToolStripMenuItem
             // 
             deleteSessionToolStripMenuItem.Name = "deleteSessionToolStripMenuItem";
-            deleteSessionToolStripMenuItem.Size = new Size(194, 26);
+            deleteSessionToolStripMenuItem.Size = new Size(224, 26);
             deleteSessionToolStripMenuItem.Text = "Delete Session";
+            deleteSessionToolStripMenuItem.Click += deleteSessionToolStripMenuItem_Click;
             // 
             // courseSessionsAttdToolStripMenuItem
             // 
@@ -363,6 +373,7 @@
             aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
             aboutToolStripMenuItem.Size = new Size(64, 24);
             aboutToolStripMenuItem.Text = "About";
+            aboutToolStripMenuItem.Click += aboutToolStripMenuItem_Click;
             // 
             // StartScreen
             // 

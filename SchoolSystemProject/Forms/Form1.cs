@@ -1,7 +1,9 @@
 using SchoolSystemProject.Context;
 using SchoolSystemProject.Forms;
 using SchoolSystemProject.Forms.Courses;
+using SchoolSystemProject.Forms.CourseSession;
 using SchoolSystemProject.Forms.Departments;
+using SchoolSystemProject.Forms.Instructor;
 using SchoolSystemProject.Models;
 
 namespace SchoolSystemProject
@@ -115,6 +117,72 @@ namespace SchoolSystemProject
         {
             DeleteDepartmentForm deleteDepartmentForm = new DeleteDepartmentForm();
             deleteDepartmentForm.ShowDialog();
+        }
+
+        private void getInstructorsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            GetInstructorsForm getInstructors = new GetInstructorsForm();
+            getInstructors.ShowDialog();
+        }
+
+        private void getInstructorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            GetInstructorForm getInstructor = new GetInstructorForm();
+            getInstructor.ShowDialog();
+        }
+
+        private void addInstructorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AddInstructor addInstructor = new AddInstructor();
+            addInstructor.ShowDialog();
+        }
+
+        private void updateInstructorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            UpdateInstructor updateInstructor = new UpdateInstructor();
+            updateInstructor.ShowDialog();
+        }
+
+        private void deleteInstructorToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DeleteInstructor deleteInstructor = new DeleteInstructor();
+            deleteInstructor.ShowDialog();
+        }
+
+        private void getSessionsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            GetSessions getSessions = new GetSessions();
+            getSessions.ShowDialog();
+        }
+
+        private void getSessionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            GetSession getSession = new GetSession();
+            getSession.ShowDialog();
+        }
+
+        private void addSessionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AddSession addSession = new AddSession();
+            addSession.ShowDialog();
+        }
+
+        private void updateSessionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            UpdateSession updateSession = new UpdateSession();
+            updateSession.ShowDialog();
+        }
+
+        private void deleteSessionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DeleteSession deleteSession = new DeleteSession();
+            deleteSession.ShowDialog();
+        }
+
+        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AboutForm aboutForm = new AboutForm();
+            aboutForm.ShowDialog();
         }
     }
 }
