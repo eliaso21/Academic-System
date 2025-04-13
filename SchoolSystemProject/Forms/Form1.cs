@@ -4,6 +4,7 @@ using SchoolSystemProject.Forms.Courses;
 using SchoolSystemProject.Forms.CourseSession;
 using SchoolSystemProject.Forms.Departments;
 using SchoolSystemProject.Forms.Instructor;
+using SchoolSystemProject.Forms.Attendance;
 using SchoolSystemProject.Models;
 
 namespace SchoolSystemProject
@@ -183,6 +184,36 @@ namespace SchoolSystemProject
         {
             AboutForm aboutForm = new AboutForm();
             aboutForm.ShowDialog();
+        }
+
+        private void getAttendacesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SchoolSystemProject.Forms.Attendance.GetAttendances getAttendances = new Forms.Attendance.GetAttendances();
+            getAttendances.ShowDialog();
+        }
+
+        private void getAttendanceToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            SchoolSystemProject.Forms.Attendance.GetAttendance getAttendance = new GetAttendance();
+            getAttendance.ShowDialog();
+        }
+
+        private void addAttendanceToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AddAttendance addAttendance = new AddAttendance();
+            addAttendance.ShowDialog();
+        }
+
+        private void updateAttendanceToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            UpdateAttendance updateAttendance = new UpdateAttendance();
+            updateAttendance.ShowDialog();
+        }
+
+        private void deleteAttendanceToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            DeleteAttendance delAttendance = new DeleteAttendance();
+            delAttendance.ShowDialog();
         }
     }
 }

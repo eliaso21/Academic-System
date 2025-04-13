@@ -81,7 +81,7 @@ namespace SchoolSystemProject.Forms.Instructor
                 }
                 else
                 {
-                    MessageBox.Show("Department ID not found.");
+                    MessageBox.Show("Instructor ID not found.");
                 }
             }
         }

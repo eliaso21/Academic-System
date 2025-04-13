@@ -3,40 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|c:\\users\\robin\\source\\repos\\schoolsystemproject\\schoolsystemproject\\forms\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|solutionrelative:schoolsystemproject\\forms\\aboutform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|c:\\users\\robin\\source\\repos\\schoolsystemproject\\schoolsystemproject\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|solutionrelative:schoolsystemproject\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|c:\\users\\robin\\source\\repos\\schoolsystemproject\\schoolsystemproject\\forms\\attendance\\updateattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|solutionrelative:schoolsystemproject\\forms\\attendance\\updateattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\schoolsystemproject\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|solutionrelative:schoolsystemproject\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|c:\\users\\robin\\source\\repos\\schoolsystemproject\\schoolsystemproject\\forms\\coursesession\\updatesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|solutionrelative:schoolsystemproject\\forms\\coursesession\\updatesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|c:\\users\\robin\\source\\repos\\schoolsystemproject\\schoolsystemproject\\forms\\coursesession\\deletesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|solutionrelative:schoolsystemproject\\forms\\coursesession\\deletesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|c:\\users\\robin\\source\\repos\\schoolsystemproject\\schoolsystemproject\\forms\\instructor\\deleteinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|solutionrelative:schoolsystemproject\\forms\\instructor\\deleteinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|c:\\users\\robin\\source\\repos\\schoolsystemproject\\schoolsystemproject\\forms\\coursesession\\deletesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|solutionrelative:schoolsystemproject\\forms\\coursesession\\deletesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|c:\\users\\robin\\source\\repos\\schoolsystemproject\\schoolsystemproject\\forms\\instructor\\deleteinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|solutionrelative:schoolsystemproject\\forms\\instructor\\deleteinstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|c:\\users\\robin\\source\\repos\\schoolsystemproject\\schoolsystemproject\\models\\coursesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|solutionrelative:schoolsystemproject\\models\\coursesession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|c:\\users\\robin\\source\\repos\\schoolsystemproject\\schoolsystemproject\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10E01DB6-D733-4662-8DFE-77EE1D16836B}|SchoolSystemProject\\SchoolSystemProject.csproj|solutionrelative:schoolsystemproject\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\Form1.cs",
               "RelativeDocumentMoniker": "SchoolSystemProject\\Forms\\Form1.cs",
@@ -63,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\Form1.cs",
               "RelativeDocumentMoniker": "SchoolSystemProject\\Forms\\Form1.cs",
               "ToolTip": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\Form1.cs",
               "RelativeToolTip": "SchoolSystemProject\\Forms\\Form1.cs",
-              "ViewState": "AgIAAK0AAAAAAAAAAAAIwLgAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAIwNcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T21:47:40.762Z",
               "IsPinned": true,
@@ -78,89 +54,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AboutForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\AboutForm.cs",
-              "RelativeDocumentMoniker": "SchoolSystemProject\\Forms\\AboutForm.cs",
-              "ToolTip": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\AboutForm.cs [Design]",
-              "RelativeToolTip": "SchoolSystemProject\\Forms\\AboutForm.cs [Design]",
+              "Title": "UpdateAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\Attendance\\UpdateAttendance.cs",
+              "RelativeDocumentMoniker": "SchoolSystemProject\\Forms\\Attendance\\UpdateAttendance.cs",
+              "ToolTip": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\Attendance\\UpdateAttendance.cs*",
+              "RelativeToolTip": "SchoolSystemProject\\Forms\\Attendance\\UpdateAttendance.cs*",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAvwJMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T00:12:30.883Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateSession.cs",
-              "DocumentMoniker": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\CourseSession\\UpdateSession.cs",
-              "RelativeDocumentMoniker": "SchoolSystemProject\\Forms\\CourseSession\\UpdateSession.cs",
-              "ToolTip": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\CourseSession\\UpdateSession.cs",
-              "RelativeToolTip": "SchoolSystemProject\\Forms\\CourseSession\\UpdateSession.cs",
-              "ViewState": "AgIAAIAAAAAAAAAAAAAvwI0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T00:11:32.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DeleteInstructor.cs",
-              "DocumentMoniker": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\Instructor\\DeleteInstructor.cs",
-              "RelativeDocumentMoniker": "SchoolSystemProject\\Forms\\Instructor\\DeleteInstructor.cs",
-              "ToolTip": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\Instructor\\DeleteInstructor.cs",
-              "RelativeToolTip": "SchoolSystemProject\\Forms\\Instructor\\DeleteInstructor.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T00:09:43.665Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DeleteSession.cs",
-              "DocumentMoniker": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\CourseSession\\DeleteSession.cs",
-              "RelativeDocumentMoniker": "SchoolSystemProject\\Forms\\CourseSession\\DeleteSession.cs",
-              "ToolTip": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\CourseSession\\DeleteSession.cs",
-              "RelativeToolTip": "SchoolSystemProject\\Forms\\CourseSession\\DeleteSession.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAgwCIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T00:09:35.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DeleteInstructor.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\Instructor\\DeleteInstructor.cs",
-              "RelativeDocumentMoniker": "SchoolSystemProject\\Forms\\Instructor\\DeleteInstructor.cs",
-              "ToolTip": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\Instructor\\DeleteInstructor.cs [Design]",
-              "RelativeToolTip": "SchoolSystemProject\\Forms\\Instructor\\DeleteInstructor.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T00:09:05.456Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DeleteSession.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\CourseSession\\DeleteSession.cs",
-              "RelativeDocumentMoniker": "SchoolSystemProject\\Forms\\CourseSession\\DeleteSession.cs",
-              "ToolTip": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Forms\\CourseSession\\DeleteSession.cs [Design]",
-              "RelativeToolTip": "SchoolSystemProject\\Forms\\CourseSession\\DeleteSession.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T00:08:28.549Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CourseSession.cs",
-              "DocumentMoniker": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Models\\CourseSession.cs",
-              "RelativeDocumentMoniker": "SchoolSystemProject\\Models\\CourseSession.cs",
-              "ToolTip": "C:\\Users\\robin\\source\\repos\\SchoolSystemProject\\SchoolSystemProject\\Models\\CourseSession.cs",
-              "RelativeToolTip": "SchoolSystemProject\\Models\\CourseSession.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T23:27:32.472Z",
+              "WhenOpened": "2025-04-13T07:37:49.71Z",
               "EditorCaption": ""
             }
           ]

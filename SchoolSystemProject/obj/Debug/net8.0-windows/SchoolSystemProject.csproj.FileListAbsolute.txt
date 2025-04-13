@@ -168,3 +168,8 @@ C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\ne
 C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.CourseSession.GetSession.resources
 C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.CourseSession.UpdateSession.resources
 C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.AboutForm.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Attendance.GetAttendances.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Attendance.AddAttendance.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Attendance.DeleteAttendance.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Attendance.GetAttendance.resources
+C:\Users\robin\source\repos\SchoolSystemProject\SchoolSystemProject\obj\Debug\net8.0-windows\SchoolSystemProject.Forms.Attendance.UpdateAttendance.resources

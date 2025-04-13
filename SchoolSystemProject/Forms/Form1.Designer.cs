@@ -296,35 +296,35 @@
             // getSessionsToolStripMenuItem
             // 
             getSessionsToolStripMenuItem.Name = "getSessionsToolStripMenuItem";
-            getSessionsToolStripMenuItem.Size = new Size(224, 26);
+            getSessionsToolStripMenuItem.Size = new Size(194, 26);
             getSessionsToolStripMenuItem.Text = "Get Sessions";
             getSessionsToolStripMenuItem.Click += getSessionsToolStripMenuItem_Click;
             // 
             // getSessionToolStripMenuItem
             // 
             getSessionToolStripMenuItem.Name = "getSessionToolStripMenuItem";
-            getSessionToolStripMenuItem.Size = new Size(224, 26);
+            getSessionToolStripMenuItem.Size = new Size(194, 26);
             getSessionToolStripMenuItem.Text = "Get Session";
             getSessionToolStripMenuItem.Click += getSessionToolStripMenuItem_Click;
             // 
             // addSessionToolStripMenuItem
             // 
             addSessionToolStripMenuItem.Name = "addSessionToolStripMenuItem";
-            addSessionToolStripMenuItem.Size = new Size(224, 26);
+            addSessionToolStripMenuItem.Size = new Size(194, 26);
             addSessionToolStripMenuItem.Text = "Add Session";
             addSessionToolStripMenuItem.Click += addSessionToolStripMenuItem_Click;
             // 
             // updateSessionToolStripMenuItem
             // 
             updateSessionToolStripMenuItem.Name = "updateSessionToolStripMenuItem";
-            updateSessionToolStripMenuItem.Size = new Size(224, 26);
+            updateSessionToolStripMenuItem.Size = new Size(194, 26);
             updateSessionToolStripMenuItem.Text = "Update Session";
             updateSessionToolStripMenuItem.Click += updateSessionToolStripMenuItem_Click;
             // 
             // deleteSessionToolStripMenuItem
             // 
             deleteSessionToolStripMenuItem.Name = "deleteSessionToolStripMenuItem";
-            deleteSessionToolStripMenuItem.Size = new Size(224, 26);
+            deleteSessionToolStripMenuItem.Size = new Size(194, 26);
             deleteSessionToolStripMenuItem.Text = "Delete Session";
             deleteSessionToolStripMenuItem.Click += deleteSessionToolStripMenuItem_Click;
             // 
@@ -340,32 +340,37 @@
             // getAttendacesToolStripMenuItem
             // 
             getAttendacesToolStripMenuItem.Name = "getAttendacesToolStripMenuItem";
-            getAttendacesToolStripMenuItem.Size = new Size(221, 26);
+            getAttendacesToolStripMenuItem.Size = new Size(224, 26);
             getAttendacesToolStripMenuItem.Text = "Get Attendaces";
+            getAttendacesToolStripMenuItem.Click += getAttendacesToolStripMenuItem_Click;
             // 
             // getAttendanceToolStripMenuItem
             // 
             getAttendanceToolStripMenuItem.Name = "getAttendanceToolStripMenuItem";
-            getAttendanceToolStripMenuItem.Size = new Size(221, 26);
+            getAttendanceToolStripMenuItem.Size = new Size(224, 26);
             getAttendanceToolStripMenuItem.Text = "Get Attendance";
+            getAttendanceToolStripMenuItem.Click += getAttendanceToolStripMenuItem_Click;
             // 
             // addAttendanceToolStripMenuItem
             // 
             addAttendanceToolStripMenuItem.Name = "addAttendanceToolStripMenuItem";
-            addAttendanceToolStripMenuItem.Size = new Size(221, 26);
+            addAttendanceToolStripMenuItem.Size = new Size(224, 26);
             addAttendanceToolStripMenuItem.Text = "Add Attendance";
+            addAttendanceToolStripMenuItem.Click += addAttendanceToolStripMenuItem_Click;
             // 
             // updateAttendanceToolStripMenuItem
             // 
             updateAttendanceToolStripMenuItem.Name = "updateAttendanceToolStripMenuItem";
-            updateAttendanceToolStripMenuItem.Size = new Size(221, 26);
+            updateAttendanceToolStripMenuItem.Size = new Size(224, 26);
             updateAttendanceToolStripMenuItem.Text = "Update Attendance";
+            updateAttendanceToolStripMenuItem.Click += updateAttendanceToolStripMenuItem_Click;
             // 
             // deleteAttendanceToolStripMenuItem
             // 
             deleteAttendanceToolStripMenuItem.Name = "deleteAttendanceToolStripMenuItem";
-            deleteAttendanceToolStripMenuItem.Size = new Size(221, 26);
+            deleteAttendanceToolStripMenuItem.Size = new Size(224, 26);
             deleteAttendanceToolStripMenuItem.Text = "Delete Attendance";
+            deleteAttendanceToolStripMenuItem.Click += deleteAttendanceToolStripMenuItem_Click;
             // 
             // aboutToolStripMenuItem
             // 

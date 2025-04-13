@@ -7,6 +7,21 @@
     <Compile Update="Forms\AddStudent.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\Attendance\AddAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Attendance\DeleteAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Attendance\GetAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Attendance\GetAttendances.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Attendance\UpdateAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\CourseSession\AddSession.cs">
       <SubType>Form</SubType>
     </Compile>
